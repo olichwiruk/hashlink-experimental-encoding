@@ -1,0 +1,9 @@
+{
+  "host": "http://localhost:9292/schemas/",
+  "schema-base": "fhpECWMUHGPts9HcQbkEM6C1GjpKHa6pPStnaDSXj11W",
+  "overlays": [
+    "gEcBzHJUgjfYC4WpAAyCG58CTXwvnpvJBdyb9atA8Mcu",
+    "6ba4G3dNqg7CvDYSQEz3dW2tJB7fpZYJjrJk7AcaVZYu",
+    "gMZrxK7NBphkUbyC4C3G7EsVZaFVY3g1QKZWAbNN8dP"
+  ]
+}
